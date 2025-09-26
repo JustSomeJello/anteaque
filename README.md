@@ -5,8 +5,8 @@
 **Please follow these rules! Failure to do so may lead to your merge request being denied, and on more serious offenses a blacklist from this repo!**
 1. **NO NSFW CONTENT**. Emphasis on nudity, heavy sexual topics, and fetishes.
 2. Do not modify other people's assets without their permission. I will be keeping track on things people submit and if they're okay with things being changed / modified.
-3. Keep your content balanced for the setting of the pack. This includes making sure you don't add anything that makes you too strong.
-4. Do not add any backdoors / cheats made to benefit you.
+3. Do not add any backdoors / cheats made to benefit you.
+4. Keep your content balanced for the setting of the pack. Don't add anything that could possibly be meta-defining without consultation first!
 <br/>
 If you are unsure about something that may violate the rules, send me a DM and I'll clear it up for you!
 
