@@ -1,5 +1,6 @@
 # 🍵 Anteaque
-**Anteaque** is a _Minecraft_ mod that allows students in the _Class of 2029 GAME program_ at _Brock Univerisity_ to contribute content, such as code, assets, and anything else! This project serves as an easy way for GAME students to add content to their adjacent Minecraft server. This is the main repo we use for adding content!
+**Anteaque** is a _Minecraft_ mod that follows one premise: any students in the _Class of 2029 GAME program_ at _Brock Univerisity_ are allowed to contribute content, such as code, assets, and anything else to this mod*! This project serves as an easy way for GAME students to add content to their adjacent Minecraft server. This is the main repo we use for adding content!\
+`* (content will be reviewed and must follow the rules below in order to be valid for addition.)`
 
 # Rules for Content Submission
 **Please follow these rules! Failure to do so may lead to your merge request being denied, and on more serious offenses a blacklist from this repo!**
