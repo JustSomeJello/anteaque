@@ -12,7 +12,8 @@
 If you are unsure about something that may violate the rules, send me a DM and I'll clear it up for you!
 
 # Process For Submitting Content
-Content submission, while straightforward in practice, requires a couple of steps, namely to make sure the mod has some form of cohesion and doesn't devolve into a "kitchen sink" (a modpack which is full of random mods, most of which unmodified, leaving the modpack a mess in terms of direction and content).
+Content submission, while straightforward in practice, requires a couple of steps, namely to make sure the mod has some form of cohesion and doesn't devolve into a "kitchen sink"\
+<sub>(a modpack which is full of random mods, most of which unmodified, leaving the modpack a mess in terms of direction and content).<sub/>
 
 ### 1. Idea Approval
 **This is arguably the most important step!!!** It is important that you get your idea approved before working on your content. Letting us know of your idea / plans for adding content beforehand gives us a good idea on what content is going to be added to the mod down the line. It also allows us to give you pointers and advice for your ideas.
