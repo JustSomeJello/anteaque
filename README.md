@@ -8,6 +8,7 @@
 2. Do not modify other people's assets without their permission. I will be keeping track on things people submit and if they're okay with things being changed / modified.
 3. Do not add any backdoors / cheats made to benefit you.
 4. Keep your content balanced for the setting of the pack. Don't add anything that could possibly be meta-defining without consultation first!
+5. Make sure none of your content violates any copyright!
 <br/>
 If you are unsure about something that may violate the rules, send me a DM and I'll clear it up for you!
 
