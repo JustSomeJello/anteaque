@@ -78,6 +78,8 @@ public class Anteaque {
 
         // Register our mod's ForgeConfigSpec so that Forge can create and load the config file for us
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+
+        // if this line is successfully in the repo, i got the repo to work! please! load!
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
