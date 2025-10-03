@@ -18,7 +18,14 @@ Content submission, while straightforward in practice, requires a couple of step
 <sub>(a modpack which is full of random mods, most of which unmodified, leaving the modpack a mess in terms of direction and content).<sub/>
 
 ### 1. Submitting An Idea
-**This is arguably the most important step!!!** It is important that you get your idea approved before working on your content. Me, Laksh, Adian, and Nemona will be in charge of approving ideas. Letting us know of your idea / plans for adding content beforehand gives us a good idea on what content is going to be added to the mod down the line. It also allows us to give you pointers and advice for your ideas. _It's also a good idea to try and assemble a group of people if possible!_\
+**This is arguably the most important step!!!** It is important that you get your idea approved before working on your content. Me, Laksh, Adian, and Nemona will be in charge of approving ideas. Create a ticket in the `#ticket-creation` channel, and then roughly follow the following format:
+
+**SubMod Name:** (not needed right away but ideal to have)\
+**Group Members** (if possible include their github users too)\
+**Description:** just describe most of what you're planning on item, such as items, blocks, mobs, and what they do.\
+_(if you have any pictures/concept art feel free to share!)_
+
+Letting us know of your idea / plans for adding content beforehand gives us a good idea on what content is going to be added to the mod down the line. It also allows us to give you pointers and advice for your ideas. _It's also a good idea to try and assemble a group of people if possible!_\
 After your idea gets approved by us, we'll pitch it in the Anteaque thread in the Discord server to see how the public feels about your idea.
 
 ### 2. Development
